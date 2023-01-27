@@ -5,17 +5,17 @@ The goal of this project is to create an alternative to [LiveSplit](https://live
 
 # Todo (Confirmed features / Must haves)
 - [ ] Splits <br>
-    Ability to create pre-defined splits and have the timer go through them and then stop when all splits are done
+    *Ability to create pre-defined splits and have the timer go through them and then stop when all splits are done*
 - [ ] Splits on-the-go <br>
-    Ability to add splits on-the-go in the likes of a regular stopwatch for creating a new collection for new runs
+    *Ability to add splits on-the-go in the likes of a regular stopwatch for creating a new collection for new runs*
 - [ ] Save collections <br>
-    Ability to save a collection of splits to a file and being able to import the same collection with the file
+    *Ability to save a collection of splits to a file and being able to import the same collection with the file*
 - [ ] Customization <br>
-    Ability to customize the apps with ex. fonts, colors and backgrounds
+    *Ability to customize the apps with ex. fonts, colors and backgrounds*
 - [ ] Comparing <br>
-    Tracking the current run live and comparing it to best and/or last run
+    *Tracking the current run live and comparing it to best and/or last run*
 - [ ] Calculations <br>
-    Calculating best possible run using the current and best run as reference
+    *Calculating best possible run using the current and best run as reference*
 
 # Contributing
 You can contribute to this project however you want by pushing into a new branch. I will be going through it as time comes by.

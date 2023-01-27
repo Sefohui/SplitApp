@@ -5,7 +5,7 @@ This is a file to keep all the ideas me and the community have for the app. Plea
 Format like this:
 ```markdown
 - [ ] Name of idea here <br>
-    Description of the idea here
+    *Description of the idea here*
 ```
 
 # My Ideas
