@@ -1,0 +1,15 @@
+## SplitApp
+
+This is a file to keep all the ideas me and the community have for the app. Please add your ideas under `Community Ideas`
+
+Format like this:
+```markdown
+- [ ] Name of idea here
+    Description of the idea here
+```
+
+# My Ideas
+
+
+
+# Community Ideas
