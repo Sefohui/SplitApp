@@ -19,7 +19,7 @@ The goal of this project is to create an alternative to [LiveSplit](https://live
 
 # Contributing
 You can contribute to this project however you want by pushing into a new branch. I will be going through it as time comes by.
-If you have some new ideas or features you would like to see please add them to [IDEAS.md](IDEAS.MD) under [[ Community Ideas | IDEAS.md#community-ideas ]]
+If you have some new ideas or features you would like to see please add them to [IDEAS.md](IDEAS.MD) under [Community Ideas](IDEAS.md#community-ideas).
 
 <a href="https://www.buymeacoffee.com/sefohui" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sefohui&button_colour=58cea7&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
