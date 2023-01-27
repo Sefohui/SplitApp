@@ -4,8 +4,8 @@
 The goal of this project is to create an alternative to [LiveSplit](https://livesplit.org/) that works on any OS.
 
 # Todo (Confirmed features / Must haves)
-- [ ] Splits
-Ability to create pre-defined splits and have the timer go through them and then stop when all splits are done
+- [ ] Splits <br>
+    Ability to create pre-defined splits and have the timer go through them and then stop when all splits are done
 - [ ] Splits on-the-go
     Ability to add splits on-the-go in the likes of a regular stopwatch for creating a new collection for new runs
 - [ ] Save collections
